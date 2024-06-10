@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-10T16:40:37 EET" name="Default suite" finished-at="2024-06-10T16:40:41 EET" duration-ms="3675">
+    <groups>
+    </groups>
+    <test started-at="2024-06-10T16:40:37 EET" name="Default test" finished-at="2024-06-10T16:40:41 EET" duration-ms="3675">
+      <class name="MyTestCases">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:MyTestCases@39a8312f]" started-at="2024-06-10T16:40:37 EET" name="setUp" finished-at="2024-06-10T16:40:40 EET" duration-ms="3310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:1, instance:MyTestCases@39a8312f]" started-at="2024-06-10T16:40:41 EET" name="loginTest" finished-at="2024-06-10T16:40:41 EET" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="addItemsIfPricGraterThanFifteen()[pri:2, instance:MyTestCases@39a8312f]" started-at="2024-06-10T16:40:41 EET" name="addItemsIfPricGraterThanFifteen" finished-at="2024-06-10T16:40:41 EET" duration-ms="177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItemsIfPricGraterThanFifteen -->
+      </class> <!-- MyTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
